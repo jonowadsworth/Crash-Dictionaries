@@ -31,3 +31,7 @@ print("...")
 
 # to confirm number of created aliens, use LEN to get the length of a list as usual
 print(f"The total number of aliens loose is: {len(aliens_list)}")
+
+for eyeball in range(10):
+    print("EyeBall ten four!")
+    print("This is a github test, newlines added for merge test")
